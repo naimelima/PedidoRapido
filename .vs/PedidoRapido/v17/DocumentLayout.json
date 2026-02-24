@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\naome\\source\\repos\\PedidoRapido\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB87E68-905C-4F10-9B67-31BA97497AC4}|PedidoRapido\\PedidoRapido.csproj|c:\\users\\naome\\source\\repos\\pedidorapido\\pedidorapido\\banco\\pedidodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB87E68-905C-4F10-9B67-31BA97497AC4}|PedidoRapido\\PedidoRapido.csproj|solutionrelative:pedidorapido\\banco\\pedidodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB87E68-905C-4F10-9B67-31BA97497AC4}|PedidoRapido\\PedidoRapido.csproj|c:\\users\\naome\\source\\repos\\pedidorapido\\pedidorapido\\menu\\menuadicionarpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB87E68-905C-4F10-9B67-31BA97497AC4}|PedidoRapido\\PedidoRapido.csproj|solutionrelative:pedidorapido\\menu\\menuadicionarpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB87E68-905C-4F10-9B67-31BA97497AC4}|PedidoRapido\\PedidoRapido.csproj|c:\\users\\naome\\source\\repos\\pedidorapido\\pedidorapido\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB87E68-905C-4F10-9B67-31BA97497AC4}|PedidoRapido\\PedidoRapido.csproj|solutionrelative:pedidorapido\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB87E68-905C-4F10-9B67-31BA97497AC4}|PedidoRapido\\PedidoRapido.csproj|c:\\users\\naome\\source\\repos\\pedidorapido\\pedidorapido\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB87E68-905C-4F10-9B67-31BA97497AC4}|PedidoRapido\\PedidoRapido.csproj|solutionrelative:pedidorapido\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB87E68-905C-4F10-9B67-31BA97497AC4}|PedidoRapido\\PedidoRapido.csproj|c:\\users\\naome\\source\\repos\\pedidorapido\\pedidorapido\\menu\\menuexibirpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB87E68-905C-4F10-9B67-31BA97497AC4}|PedidoRapido\\PedidoRapido.csproj|solutionrelative:pedidorapido\\menu\\menuexibirpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB87E68-905C-4F10-9B67-31BA97497AC4}|PedidoRapido\\PedidoRapido.csproj|c:\\users\\naome\\source\\repos\\pedidorapido\\pedidorapido\\banco\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB87E68-905C-4F10-9B67-31BA97497AC4}|PedidoRapido\\PedidoRapido.csproj|solutionrelative:pedidorapido\\banco\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB87E68-905C-4F10-9B67-31BA97497AC4}|PedidoRapido\\PedidoRapido.csproj|c:\\users\\naome\\source\\repos\\pedidorapido\\pedidorapido\\menu\\menuatualizarpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB87E68-905C-4F10-9B67-31BA97497AC4}|PedidoRapido\\PedidoRapido.csproj|solutionrelative:pedidorapido\\menu\\menuatualizarpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB87E68-905C-4F10-9B67-31BA97497AC4}|PedidoRapido\\PedidoRapido.csproj|c:\\users\\naome\\source\\repos\\pedidorapido\\pedidorapido\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB87E68-905C-4F10-9B67-31BA97497AC4}|PedidoRapido\\PedidoRapido.csproj|solutionrelative:pedidorapido\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB87E68-905C-4F10-9B67-31BA97497AC4}|PedidoRapido\\PedidoRapido.csproj|c:\\users\\naome\\source\\repos\\pedidorapido\\pedidorapido\\menu\\menuapagarpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB87E68-905C-4F10-9B67-31BA97497AC4}|PedidoRapido\\PedidoRapido.csproj|solutionrelative:pedidorapido\\menu\\menuapagarpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB87E68-905C-4F10-9B67-31BA97497AC4}|PedidoRapido\\PedidoRapido.csproj|c:\\users\\naome\\source\\repos\\pedidorapido\\pedidorapido\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB87E68-905C-4F10-9B67-31BA97497AC4}|PedidoRapido\\PedidoRapido.csproj|solutionrelative:pedidorapido\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\PedidoRapido\\PedidoRapido\\Banco\\Connection.cs",
+              "RelativeDocumentMoniker": "PedidoRapido\\Banco\\Connection.cs",
+              "ToolTip": "C:\\Users\\naome\\source\\repos\\PedidoRapido\\PedidoRapido\\Banco\\Connection.cs",
+              "RelativeToolTip": "PedidoRapido\\Banco\\Connection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T17:16:59.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\PedidoRapido\\PedidoRapido\\Menu\\Menu.cs",
+              "RelativeDocumentMoniker": "PedidoRapido\\Menu\\Menu.cs",
+              "ToolTip": "C:\\Users\\naome\\source\\repos\\PedidoRapido\\PedidoRapido\\Menu\\Menu.cs",
+              "RelativeToolTip": "PedidoRapido\\Menu\\Menu.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T15:00:51.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\PedidoRapido\\PedidoRapido\\Program.cs",
+              "RelativeDocumentMoniker": "PedidoRapido\\Program.cs",
+              "ToolTip": "C:\\Users\\naome\\source\\repos\\PedidoRapido\\PedidoRapido\\Program.cs",
+              "RelativeToolTip": "PedidoRapido\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T20:40:07.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PedidoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\PedidoRapido\\PedidoRapido\\Banco\\PedidoDAL.cs",
+              "RelativeDocumentMoniker": "PedidoRapido\\Banco\\PedidoDAL.cs",
+              "ToolTip": "C:\\Users\\naome\\source\\repos\\PedidoRapido\\PedidoRapido\\Banco\\PedidoDAL.cs",
+              "RelativeToolTip": "PedidoRapido\\Banco\\PedidoDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T20:03:34.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\PedidoRapido\\PedidoRapido\\Pedido.cs",
+              "RelativeDocumentMoniker": "PedidoRapido\\Pedido.cs",
+              "ToolTip": "C:\\Users\\naome\\source\\repos\\PedidoRapido\\PedidoRapido\\Pedido.cs",
+              "RelativeToolTip": "PedidoRapido\\Pedido.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T23:41:59.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuAtualizarPedido.cs",
+              "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\PedidoRapido\\PedidoRapido\\Menu\\MenuAtualizarPedido.cs",
+              "RelativeDocumentMoniker": "PedidoRapido\\Menu\\MenuAtualizarPedido.cs",
+              "ToolTip": "C:\\Users\\naome\\source\\repos\\PedidoRapido\\PedidoRapido\\Menu\\MenuAtualizarPedido.cs",
+              "RelativeToolTip": "PedidoRapido\\Menu\\MenuAtualizarPedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T15:16:24.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuExibirPedido.cs",
+              "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\PedidoRapido\\PedidoRapido\\Menu\\MenuExibirPedido.cs",
+              "RelativeDocumentMoniker": "PedidoRapido\\Menu\\MenuExibirPedido.cs",
+              "ToolTip": "C:\\Users\\naome\\source\\repos\\PedidoRapido\\PedidoRapido\\Menu\\MenuExibirPedido.cs",
+              "RelativeToolTip": "PedidoRapido\\Menu\\MenuExibirPedido.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T15:15:59.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuAdicionarPedido.cs",
+              "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\PedidoRapido\\PedidoRapido\\Menu\\MenuAdicionarPedido.cs",
+              "RelativeDocumentMoniker": "PedidoRapido\\Menu\\MenuAdicionarPedido.cs",
+              "ToolTip": "C:\\Users\\naome\\source\\repos\\PedidoRapido\\PedidoRapido\\Menu\\MenuAdicionarPedido.cs",
+              "RelativeToolTip": "PedidoRapido\\Menu\\MenuAdicionarPedido.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwFEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T14:59:55.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\PedidoRapido\\PedidoRapido\\Cliente.cs",
+              "RelativeDocumentMoniker": "PedidoRapido\\Cliente.cs",
+              "ToolTip": "C:\\Users\\naome\\source\\repos\\PedidoRapido\\PedidoRapido\\Cliente.cs",
+              "RelativeToolTip": "PedidoRapido\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T23:38:50.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MenuApagarPedido.cs",
+              "DocumentMoniker": "C:\\Users\\naome\\source\\repos\\PedidoRapido\\PedidoRapido\\Menu\\MenuApagarPedido.cs",
+              "RelativeDocumentMoniker": "PedidoRapido\\Menu\\MenuApagarPedido.cs",
+              "ToolTip": "C:\\Users\\naome\\source\\repos\\PedidoRapido\\PedidoRapido\\Menu\\MenuApagarPedido.cs",
+              "RelativeToolTip": "PedidoRapido\\Menu\\MenuApagarPedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T15:16:54.469Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
